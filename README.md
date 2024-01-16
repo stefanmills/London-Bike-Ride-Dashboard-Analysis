@@ -1,5 +1,6 @@
 # London Bike Ride Data Analysis and Visualization
-![Uploading image.png…]()
+<img width="1118" alt="image" src="https://github.com/stefanmills/London-Bike-Ride-Dashboard-Analysis/assets/24477861/2e04967a-b64d-4182-a711-d654e5b05ed6">
+
 
 ## Project Overview
 
